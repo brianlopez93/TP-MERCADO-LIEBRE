@@ -1,0 +1,25 @@
+{
+  "name": "mercado-liebre",
+  "version": "1.0.0",
+  "description": "creando una estructura en html",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianlopez93/TP-MERCADO-LIEBRE.git"
+  },
+  "keywords": [
+    "Lopezbrian9321"
+  ],
+  "author": "brian lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianlopez93/TP-MERCADO-LIEBRE/issues"
+  },
+  "homepage": "https://github.com/brianlopez93/TP-MERCADO-LIEBRE#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
