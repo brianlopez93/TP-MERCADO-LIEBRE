@@ -1,0 +1,134 @@
+header img{
+    font-family:'Roboto', sans-serif;
+    padding-top: 30px;
+    padding-left: 25px;
+    width: 150px;
+    background-color: none;
+    color: #03264C;
+}
+
+header input{
+    margin-top: 20px;
+    padding-right: 20px;
+    margin-left: 15px;
+}
+
+header nav.lupa{
+    background-color: white;
+    margin-right: 355px;
+    margin-left: 15px;
+}
+
+.home{
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #EAC926;
+}
+
+.home h2{
+font-size: 12px;
+padding-left: 50px;
+margin-bottom: 20px;
+color:rgb(34, 31, 31)
+}
+
+li {
+    list-style: none;
+    margin-left: -5px;
+}
+
+a {
+    text-decoration: none;
+    color:  rgb(34, 31, 31);
+    margin-right: 5px; 
+    margin-left: -3PX; 
+}
+
+header div.burger-menu{
+    background-color: #1259c3;
+    color: white;
+    border-radius: 10%;
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 13px;
+    margin-right: 160px;
+    margin-left: 180px;
+    margin-top: 20px;  
+}
+
+main {
+    text-align: center;
+}
+
+.main h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    padding-bottom: 10px;
+    padding-right: 30px;  
+}
+
+main img.cafetera{
+    width: 350px;
+    height: 350px;
+}
+
+main img.macbook{
+    width: 350px;
+    height: 350px;
+}
+
+main img.samsung-galaxy-s10 {
+    width: 350px;
+    height: 350px;
+}
+
+main img.SmartTv{
+    width: 350px;
+    height: 350px;
+}
+
+.main p.precios{
+    font-size: 18px;  
+}
+.main p.descuentos{
+    font-size: 16px; 
+   
+}
+
+.main h4.descripcion{
+    font-size: 16px; 
+    
+}
+
+.footer{
+    text-align: center;
+    font-size: 12px; 
+    background-color: white;
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-bottom: -10px;
+}
+
+.footer article i{
+    font-size: 2em;
+    margin-bottom: 10px;
+    margin-top: 50px;
+    color:#1259c3 ;
+}
+
+.footer article h3{
+    color:#666;
+    margin-top: 1px;
+}
+
+.footer article p{
+    color: #666;
+    margin-top:10px;
+}
+
+footer p.texto01{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: #666;
+    margin-right: 50px;
+}
